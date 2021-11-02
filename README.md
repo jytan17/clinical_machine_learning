@@ -1,5 +1,5 @@
 # clinical_machine_learning
-Machine Learning Projects with focus on Clinical Data
+Machine Learning Projects with Clinical Data
 
 Results are presented in the following notebook (.ipynb) files:
 - [LUNA](holder)
